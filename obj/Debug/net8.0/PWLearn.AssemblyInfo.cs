@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWLearn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8df1236ed61eec112ac93dfb9e30d1d756d88ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWLearn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWLearn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

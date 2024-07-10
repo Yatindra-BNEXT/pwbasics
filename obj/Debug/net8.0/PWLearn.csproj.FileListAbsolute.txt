@@ -400,6 +400,7 @@ C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.Ge
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.AssemblyInfoInputs.cache
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.AssemblyInfo.cs
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.csproj.CoreCompileInputs.cache
+C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.sourcelink.json
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.csproj.Up2Date
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\PWLearn.dll
 C:\Users\YatindraKinker\source\repos\PWLearn\PWLearn\obj\Debug\net8.0\refint\PWLearn.dll
